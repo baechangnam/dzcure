@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">디지큐어</string>
+    <string name="default_notification_channel_id">DZCURE</string>
+    <string name="deeplink">dzcure.page.link</string>
+
+    <string name="updateImportant">It is required to update to the latest version to use the service.</string>
+    <string name="confirm">Confirm</string>
+    <string name="update">For safe service, it is recommended to update to latest version.\nWould you like to continue?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="updateNow">Update Now</string>
+    <string name="updateLater">Remind Later</string>
+    <string name="updateConfirm">Update</string>
+    <string name="fileDownload">FileDownload</string>
+    <string name="fileDownloadContent">Update file downloading...</string>
+    <string name="downloading">Downloading....</string>
+    <string name="downloadComplete">Download Complete</string>
+    <string name="versionKey">version_android_live</string>
+
+</resources>
